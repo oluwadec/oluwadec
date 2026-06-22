@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Logo</h1>
+<h1 align="center">Hi 👋, I'm Oluwadec</h1>
 
 <h3 align="center">
 Aspiring Mechatronics Engineer • C++ Developer • Future Game Engine Programmer
@@ -51,22 +51,6 @@ Aspiring Mechatronics Engineer • C++ Developer • Future Game Engine Programm
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 ### 🎮 Game Engine Project
@@ -82,14 +66,14 @@ Solutions to LeetCode and competitive programming problems.
 
 ## 💡 Favorite Quote
 
-> "The expert in anything was once a beginner."
+> "For I can do all things through Christ who strengthens me." — Philippians 4:13
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/oluwadec
+- GitHub: :contentReference[oaicite:0]{index=0}
 
 ---
 
-⭐ If you like my projects, consider starring them!
+⭐ Always learning. Always building.
