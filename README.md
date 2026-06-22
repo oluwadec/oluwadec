@@ -1,88 +1,157 @@
 <h1 align="center">Hi 👋, I'm Eben</h1>
 
+
+
 <h3 align="center">
-Mechatronics Engineering Undergraduate . C++ Developer . Bridging Hardware & Software
+
+Aspiring Mechatronics Engineer • C++ Developer • Future Game Engine Programmer
+
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oluwadec&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
+
+
 
 ## 🚀 About Me
 
-- 🎓 Studying Mechatronics Engineering at **FUTMINNA**.
-- 💻 Currently building with **C++** and diving deep into Data Structures & Algorithms.
-- 🎮 Interested in **Game Engine Development** and building high-performance applications.
-- 🤖 Passionate about Robotics, Embedded Systems, and AI.
-- 🎯 **Current Goal:** Sharpening my problem-solving skills to secure a software engineering internship at Google.
-- ⚡ **Fun Fact:** When I'm not writing C++, I'm likely managing a high-rated eFootball squad, supporting Arsenal FC, or analyzing the cinematic brilliance of Studio Ghibli and the Spider-Verse films.
+
+
+- 🎓 Studying Mechatronics Engineering
+
+- 💻 Currently learning **C++**, Data Structures & Algorithms
+
+- 🎮 Interested in **Game Engine Development**
+
+- 🤖 Passionate about Robotics, Embedded Systems, and AI
+
+- 📚 Solving coding problems to prepare for internships
+
+- 🌍 Goal: Secure software engineering internships at top global companies
+
+
 
 ---
+
+
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,visualstudio,linux,cmake,python" alt="Tech Stack" />
+
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,visualstudio,linux,cmake,python" />
+
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oluwadec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Eben's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwadec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 ---
+
+
+
+## 📈 Current Learning Roadmap
+
+
+
+- ✅ C++ Fundamentals
+
+- ✅ Object-Oriented Programming
+
+- 🔄 Data Structures
+
+- 🔄 Algorithms
+
+- 🔄 LeetCode Problem Solving
+
+- 🔄 Design Patterns
+
+- 🔄 Computer Architecture
+
+- 🔄 Operating Systems
+
+- 🔄 Game Engine Development
+
+- 🔄 Robotics Programming
+
+
+
+---
+
+
+
+## 🎯 2026 Goals
+
+
+
+- Solve 300+ LeetCode Problems
+
+- Build a 2D Game Engine in C++
+
+- Learn OpenGL
+
+- Contribute to Open Source
+
+- Complete Multiple Engineering Projects
+
+- Land an International Software Engineering Internship
+
+
+
+---
+
+
 
 ## 🔥 Featured Projects
 
-### 🛒 The Market App
-A robust **C++** console application featuring a secure user authentication system with email validation and a highly searchable food ingredient database capable of handling thousands of items.
 
-### 🧠 STEM Quiz Application
-An interactive **C++** program packed with 100 comprehensive questions spanning Mathematics, Physics, and Chemistry.
 
-### 🎮 Game Engine Project (In Progress)
-Building a custom 2D game engine from scratch using **C++** to understand the low-level mechanics of rendering, physics, and game loops.
+### 🎮 Game Engine Project
 
----
+Building a custom game engine from scratch using C++.
 
-## 📈 Learning Roadmap & 2026 Goals
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>📚 Current Focus</b><br>
-      ✅ C++ Fundamentals & OOP<br>
-      🔄 Data Structures & Algorithms<br>
-      🔄 LeetCode Problem Solving<br>
-      🔄 Design Patterns<br>
-      🔄 Computer Architecture
-    </td>
-    <td valign="top" width="50%">
-      <b>🎯 2026 Milestones</b><br>
-      - Solve 300+ LeetCode Problems<br>
-      - Learn OpenGL for rendering<br>
-      - Contribute to Open Source<br>
-      - Land an International SWE Internship
-    </td>
-  </tr>
-</table>
+
+### 🤖 Mechatronics Projects
+
+Engineering projects involving sensors, control systems, and automation.
+
+
+
+### 🧠 Algorithm Practice
+
+Solutions to LeetCode and competitive programming problems.
+
+
 
 ---
+
+
 
 ## 💡 Favorite Quote
 
-> *"For I can do all things through Christ who strengthens me."* — **Philippians 4:13**
+
+
+> "For I can do all things through Christ who strengthens me." — Philippians 4:13
+
+
 
 ---
 
+
+
 ## 📫 Connect With Me
 
-- **GitHub:** [@oluwadec](https://github.com/oluwadec)
 
-<p align="center">⭐ Always learning. Always building. ⭐</p>
+
+- GitHub: :https://github.com/oluwadec
+
+
+
+---
+
+
+
+⭐ Always learning. Always building.
