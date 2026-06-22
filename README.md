@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eben</h1>
 
 <h3 align="center">
-Mechatronics Engineering Undergraduate @ FUTMINNA . C++ Developer . Bridging Hardware & Software
+Mechatronics Engineering Undergraduate . C++ Developer . Bridging Hardware & Software
 </h3>
 
 <p align="center">
@@ -84,7 +84,5 @@ Building a custom 2D game engine from scratch using **C++** to understand the lo
 ## 📫 Connect With Me
 
 - **GitHub:** [@oluwadec](https://github.com/oluwadec)
-- **LinkedIn:** [Add your LinkedIn URL here](#)
-- **Email:** [Add your Email here](#)
 
 <p align="center">⭐ Always learning. Always building. ⭐</p>
