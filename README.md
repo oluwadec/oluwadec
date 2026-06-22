@@ -72,7 +72,7 @@ Solutions to LeetCode and competitive programming problems.
 
 ## 📫 Connect With Me
 
-- GitHub: :contentReference[oaicite:0]{index=0}
+- GitHub: :https://github.com/oluwadec
 
 ---
 
