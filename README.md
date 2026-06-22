@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwadec</h1>
+<h1 align="center">Hi 👋, I'm Eben</h1>
 
 <h3 align="center">
 Aspiring Mechatronics Engineer • C++ Developer • Future Game Engine Programmer
