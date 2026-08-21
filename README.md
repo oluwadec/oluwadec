@@ -1,82 +1,89 @@
-<h1 align="center">Hi, im Logo</h1>
-<h3 align="center">Mechatronics Engineering Student • C++ Developer • Aspiring Game Engine Programmer</h3>
+# Welcome
 
-<p align="center">
-  <a href="https://github.com/oluwadec">
-    <img src="https://img.shields.io/badge/GitHub-oluwadec-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
+Hi, I'm **Oluwadc** — a Mechatronics Engineering student and aspiring software engineer passionate about systems programming, game engine development, and robotics.
 
 ---
 
-## About Me
+## 🎯 About Me
 
-- Studying Mechatronics Engineering
-- Currently learning C++, Data Structures & Algorithms
-- Interested in Game Engine Development
-- Focused on Robotics, Embedded Systems, and AI
-- Solving coding problems to prepare for internships
-- Goal: secure software engineering internships at top global companies
+I'm a Mechatronics Engineering student with a strong foundation in C++ and a commitment to continuous learning. My focus is on:
 
----
+- **Software Development**: Building robust, efficient systems using modern C++
+- **Game Engine Development**: Designing high-performance graphics and physics systems
+- **Robotics & Embedded Systems**: Combining hardware and software for intelligent automation
+- **Competitive Programming**: Strengthening problem-solving skills through algorithm practice
 
-## Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,visualstudio,linux,cmake,python" />
-</p>
+Currently preparing for software engineering internships at leading global companies.
 
 ---
 
-## Current Learning Roadmap
+## 💻 Technical Skills
 
-- [x] C++ Fundamentals
-- [x] Object-Oriented Programming
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] LeetCode Problem Solving
-- [ ] Design Patterns
-- [ ] Computer Architecture
-- [ ] Operating Systems
-- [ ] Game Engine Development
-- [ ] Robotics Programming
+**Languages:**
+- C++ (Primary) | C | Python
+
+**Tools & Technologies:**
+- Git & GitHub | CMake | OpenGL
+- Visual Studio | VSCode
+- Linux | Windows
+
+**Areas of Expertise:**
+- Object-Oriented Programming & Design Patterns
+- Data Structures & Algorithms
+- Embedded Systems & Robotics
+- Game Engine Architecture
 
 ---
 
-## Goals
+## 📚 Learning Path
+
+**Completed:**
+- ✅ C++ Fundamentals
+- ✅ Object-Oriented Programming
+
+**In Progress:**
+- 🔄 Data Structures & Algorithms
+- 🔄 LeetCode Problem Solving (300+ problems target)
+- 🔄 Design Patterns
+
+**Upcoming:**
+- Computer Architecture
+- Operating Systems
+- Game Engine Development (2D → 3D)
+- Advanced Robotics Programming
+
+---
+
+## 🚀 Featured Projects
+
+**Game Engine Development**
+A custom 2D game engine built from scratch in C++, focusing on architecture, performance, and extensibility.
+
+**Mechatronics Engineering Projects**
+Real-world projects involving sensor integration, control systems, and embedded programming.
+
+**Algorithm & Data Structures**
+Curated solutions to challenging problems from competitive programming platforms.
+
+---
+
+## 🎓 Goals
 
 - Solve 300+ LeetCode problems
-- Build a 2D game engine in C++
-- Learn OpenGL
-- Contribute to open source
-- Complete multiple engineering projects
-- Land an international software engineering internship
+- Develop a production-ready 2D game engine in C++
+- Master OpenGL and graphics programming
+- Contribute meaningfully to open-source projects
+- Complete comprehensive engineering projects
+- Secure a software engineering internship with a top global company
 
 ---
 
-## Featured Projects
+## 🔗 Connect
 
-**Game Engine Project**
-Building a custom game engine from scratch using C++.
-
-**Mechatronics Projects**
-Engineering projects involving sensors, control systems, and automation.
-
-**Algorithm Practice**
-Solutions to LeetCode and competitive programming problems.
+- **GitHub**: [@oluwadec](https://github.com/oluwadec)
 
 ---
 
-## Favorite Quote
-
-> "For I can do all things through Christ who strengthens me." — Philippians 4:13
-
----
-
-## Connect With Me
-
-- GitHub: [github.com/oluwadec](https://github.com/oluwadec)
-
----
-
-<p align="center"><sub>Always learning. Always building.</sub></p>
+<p align="center">
+  <sub>Passionate about writing clean code. Committed to continuous growth.</sub>
+</p>
