@@ -1,4 +1,4 @@
-<h1 align="center">Hi, im Logo</h1>
+<h1 align="center">Hi, I'm Logo</h1>
 <h3 align="center">Mechatronics Engineering Student • C++ Developer • Aspiring Game Engine Programmer</h3>
 
 <p align="center">
@@ -11,46 +11,48 @@
 
 ## About Me
 
-- Studying Mechatronics Engineering
-- Currently learning C++, Data Structures & Algorithms
-- Interested in Game Engine Development
-- Focused on Robotics, Embedded Systems, and AI
-- Solving coding problems to prepare for internships
-- Goal: secure software engineering internships at top global companies
+* Studying Mechatronics Engineering
+* Currently learning C++, JavaScript, Data Structures & Algorithms
+* Interested in Game Engine Development
+* Focused on Robotics, Embedded Systems, and AI
+* Solving coding problems to prepare for internships
+* Goal: secure software engineering internships at top global companies
 
 ---
 
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,visualstudio,linux,cmake,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,git,github,vscode,visualstudio,linux,cmake,python" />
 </p>
 
 ---
 
 ## Current Learning Roadmap
 
-- [x] C++ Fundamentals
-- [x] Object-Oriented Programming
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] LeetCode Problem Solving
-- [ ] Design Patterns
-- [ ] Computer Architecture
-- [ ] Operating Systems
-- [ ] Game Engine Development
-- [ ] Robotics Programming
+* [x] C++ Fundamentals
+* [x] Object-Oriented Programming
+* [x] JavaScript Fundamentals
+* [x] Data Structures
+* [x] Algorithms
+* [x] LeetCode Problem Solving
+* [ ] Design Patterns
+* [ ] Computer Architecture
+* [ ] Operating Systems
+* [ ] Game Engine Development
+* [ ] Robotics Programming
 
 ---
 
 ## Goals
 
-- Solve 300+ LeetCode problems
-- Build a 2D game engine in C++
-- Learn OpenGL
-- Contribute to open source
-- Complete multiple engineering projects
-- Land an international software engineering internship
+* Solve 300+ LeetCode problems
+* Build a 2D game engine in C++
+* Learn OpenGL
+* Learn JavaScript and build web projects
+* Contribute to open source
+* Complete multiple engineering projects
+* Land an international software engineering internship
 
 ---
 
@@ -61,6 +63,9 @@ Building a custom game engine from scratch using C++.
 
 **Mechatronics Projects**
 Engineering projects involving sensors, control systems, and automation.
+
+**JavaScript Projects**
+Building web-based projects while learning JavaScript.
 
 **Algorithm Practice**
 Solutions to LeetCode and competitive programming problems.
@@ -75,7 +80,7 @@ Solutions to LeetCode and competitive programming problems.
 
 ## Connect With Me
 
-- GitHub: [github.com/oluwadec](https://github.com/oluwadec)
+* GitHub: [github.com/oluwadec](https://github.com/oluwadec)
 
 ---
 
