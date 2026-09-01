@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Logo</h1>
-<h3 align="center">Mechatronics Engineering Student • C++ Developer • Aspiring Game Engine Programmer</h3>
+<h1 align="center">
+  <a href="https://github.com/oluwadec">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Logo;Mechatronics+Engineering+Student;C%2B%2B+Developer;Aspiring+Game+Engine+Programmer" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://github.com/oluwadec">
@@ -10,7 +13,6 @@
 ---
 
 ## About Me
-
 * Studying Mechatronics Engineering
 * Currently learning C++, JavaScript, Data Structures & Algorithms
 * Interested in Game Engine Development
@@ -21,7 +23,6 @@
 ---
 
 ## Languages & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,js,git,github,vscode,visualstudio,linux,cmake,python" />
 </p>
@@ -29,7 +30,6 @@
 ---
 
 ## Current Learning Roadmap
-
 * [x] C++ Fundamentals
 * [x] Object-Oriented Programming
 * [x] JavaScript Fundamentals
@@ -45,7 +45,6 @@
 ---
 
 ## Goals
-
 * Solve 300+ LeetCode problems
 * Build a 2D game engine in C++
 * Learn OpenGL
@@ -57,7 +56,6 @@
 ---
 
 ## Featured Projects
-
 **Game Engine Project**
 Building a custom game engine from scratch using C++.
 
@@ -73,13 +71,11 @@ Solutions to LeetCode and competitive programming problems.
 ---
 
 ## Favorite Quote
-
 > "For I can do all things through Christ who strengthens me." — Philippians 4:13
 
 ---
 
 ## Connect With Me
-
 * GitHub: [github.com/oluwadec](https://github.com/oluwadec)
 
 ---
