@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Logo</h1>
-<h3 align="center">Mechatronics Engineering Student • C++ Developer • Aspiring Game Engine Programmer</h3>
+<h3 align="center">Mechatronics Engineering Student</h3>
 
 <p align="center">
   <a href="https://github.com/oluwadec">
