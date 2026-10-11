@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://github.com/oluwadec">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Logo;Mechatronics+Engineering+Student;C%2B%2B+Developer;Aspiring+Game+Engine+Programmer" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">👋 Hi, I'm Logo</h1>
 
 <p align="center">
   <a href="https://github.com/oluwadec">
