@@ -1,13 +1,13 @@
 <h1 align="center">Aboderin Logo</h1>
 
 <p align="center">
-  <strong>Mechatronics Engineering Student</strong><br>
-  Building systems at the intersection of control, software, and hardware
+  <strong>Nuclear Engineering Student</strong><br>
+  Building systems at the intersection of nuclear technology, control, software, and computation
 </p>
 
 <p align="center">
   <a href="https://github.com/oluwadec"><img src="https://img.shields.io/badge/GitHub-oluwadec-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Focus-Control%20Systems%20%7C%20Robotics%20%7C%20C%2B%2B-0A66C2?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Nuclear%20Systems%20%7C%20Control%20%7C%20C%2B%2B-0A66C2?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" alt="Status">
 </p>
 
@@ -15,16 +15,17 @@
 
 ### About
 
-I am a Mechatronics Engineering student focused on **closed-loop control**, **robotics software**, and **high-performance systems programming in C++**.  
-My work sits at the intersection of hardware, control theory, and clean software architecture.
+I am a Nuclear Engineering student focused on **reactor systems**, **computational modeling**, **closed-loop control**, and **high-performance systems programming in C++**.  
+My work sits at the intersection of nuclear technology, control theory, and clean software architecture.
 
 Current priorities:
 - Deep C++ systems programming
-- Real-time control and simulation
+- Computational modeling and simulation
+- Real-time control and systems analysis
 - Building a custom 2D game engine from scratch (`nova-engine`)
 - Strengthening DSA foundations for technical interviews
 
-Goal: Secure strong software / embedded / robotics internships while developing real engineering depth.
+Goal: Secure strong software / computational / nuclear systems internships while developing real engineering depth.
 
 ---
 
@@ -61,12 +62,12 @@ Goal: Secure strong software / embedded / robotics internships while developing 
 
 **Primary**
 - C++ (core language, OOP, modern features, systems-level thinking)
+- Computational modeling and numerical methods
 - Closed-loop control (PID, discrete-time implementation, performance metrics)
-- Robotics fundamentals (kinematics, sensors, actuators)
 - Data Structures & Algorithms
 
 **Supporting**
-- Python (prototyping, analysis, scripting)
+- Python (prototyping, analysis, scripting, scientific computing)
 - Embedded C++ / Arduino
 - Basic computer graphics concepts (for engine work)
 - Git & collaborative workflows
