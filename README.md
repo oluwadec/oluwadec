@@ -53,7 +53,7 @@ Goal: Secure strong software / embedded / robotics internships while developing 
 | **[Nova Engine](https://github.com/oluwadec/nova-engine)** | Custom 2D game engine built from scratch. Focus on clean architecture, game loop, ECS, and rendering fundamentals. | C++17/20, CMake | Active Development |
 | **[Arduino Mechatronics Pack](https://github.com/oluwadec/arduino-mechatronics-projects)** | Complete beginner-to-intermediate pack: Closed-loop DC motor PID, differential-drive robot, self-balancing platform, and servo arm. Includes BOMs, wiring, and analysis guidance. | C++ (Arduino), Control Theory | Showcase |
 | **[C++ Mechatronics Simulations](https://github.com/oluwadec/cpp-mechatronics-simulations)** | Pure C++ implementations of Matrix library, PID controller, and 2D robot arm forward kinematics. Zero external dependencies. | Modern C++ | Showcase |
-| **[LeetCode Solutions](https://github.com/oluwadec/Leetcode-solutions)** | Organized solutions with focus on clarity and multiple approaches. | C++ | Ongoing |
+| **[LeetCode Solutions](https://github.com/oluwadec/Leetcode-solutions)** | Organized solutions with focus on clarity and multiple approaches. | C++, Python, C#, C | Ongoing |
 
 ---
 
